@@ -1,6 +1,6 @@
 Name:		texlive-conv-xkv
 Version:	43558
-Release:	1
+Release:	2
 Summary:	Create new key-value syntax
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/conv-xkv
