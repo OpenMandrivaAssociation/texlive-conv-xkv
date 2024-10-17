@@ -3,7 +3,7 @@ Version:	43558
 Release:	2
 Summary:	Create new key-value syntax
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/conv-xkv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/conv-xkv
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/conv-xkv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/conv-xkv.doc.r%{version}.tar.xz
